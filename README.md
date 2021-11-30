@@ -1,20 +1,25 @@
-# Vampyric [X](http://link-to-x.com)
+# Vampyric [XFCE Terminal](https://docs.xfce.org/apps/terminal/start)
 
-> A dark theme for [X](http://link-to-x.com).
+> A dark theme for [XFCE Terminal](https://docs.xfce.org/apps/terminal/start).
 
 ![Screenshot](./screenshot.png)
 
 ## Install
 
-Insert your instructions on how to get your theme up and running here.
+Copy the [`VampyricDark.theme`](https://github.com/VampyricDark/xfce-terminal/blob/main/VampyricDark.theme) file to the local configuration directory ~/.local/share/xfce4/terminal/colorschemes.
+
+## Activation
+  1. Open the *Edit* menu and select *Preferences*
+  2. Switch to the *Colors* tab
+  3. Select `VampyricDark` from the *Presets* drop-down menu
 
 ## Team
 
 This theme maintained by:
 
-[![RaphGL](https://github.com/RaphGL.png?size=100)](https://github.com/RaphGL) |
+[![WitherCubes](https://github.com/WitherCubes.png?size=100)](https://github.com/WitherCubes) |
 --- |
-[RaphGL](https://github.com/RaphGL) |
+[WitherCubes](https://github.com/WitherCubes) |
 
 ## License
 
